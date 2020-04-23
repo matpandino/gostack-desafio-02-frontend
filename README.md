@@ -18,3 +18,8 @@ Completando o desafio de criar uma aplicação ReactJS simples que consuma os da
 **Rodar projeto**
 
     yarn start
+
+## Tela
+
+![Tela](https://i.ibb.co/Y8Pm513/image.png)
+
